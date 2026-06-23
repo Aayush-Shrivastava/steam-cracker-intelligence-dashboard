@@ -325,11 +325,9 @@ Free to use, modify, and distribute with attribution.
 
 ---
 
-# Author
+## Author
 
 **Aayush Shrivastava**
-
 Chemical Engineering, BIT Mesra, Ranchi
-
-- LinkedIn: (https://www.linkedin.com/in/aayush-shrivastava-a5568b346/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2bTmIu9xQ82PtiV%2FSFMe3w%3D%3D)
-- GitHub: (https://github.com/Aayush-Shrivastava/steam-cracker-intelligence-dashboard)
+[LinkedIn](http://linkedin.com/in/aayush-shrivastava-a5568b346)
+[GitHub](https://github.com/Aayush-Shrivastava/steam-cracker-intelligence-dashboard/tree/master)
