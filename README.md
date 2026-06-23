@@ -177,7 +177,6 @@ steam-cracker-intelligence-dashboard/
 ├── README.md
 ├── requirements.txt
 │
-│
 ├── app.py
 │
 ├── data/
@@ -190,10 +189,14 @@ steam-cracker-intelligence-dashboard/
 │   ├── coking_analyzer.py
 │   └── visualizations.py
 │
-└── assets/
-    ├── screenshot1.png
-    ├── screenshot2.png
-    └── screenshot3.png
+├── assets/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   └── screenshot3.png
+│
+└── scripts/
+    └──data_generator.py
+
 ```
 
 ---
